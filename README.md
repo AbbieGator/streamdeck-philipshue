@@ -1,17 +1,12 @@
-
-`Philips Hue` is a sample plugin demonstrating the [Stream Deck SDK](https://developer.elgato.com/documentation/stream-deck/).
-
-
 # Description
 
-The `Philips Hue` allows to control Philips Hue lights.
+The `Lifx` allows to control Lifx lights.
 
 
 # Features
 
 - code written in JavaScript
 - cross-platform (macOS, Windows)
-- localized
 
 ![](screenshot.png)
 
